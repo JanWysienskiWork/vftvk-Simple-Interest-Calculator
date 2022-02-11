@@ -19,6 +19,10 @@ h1 {
 }
 
 .highlighted {
-    background-image: linear-gradient(to left, rgb(255, 255, 148), rgb(255, 199, 96), rgb(255, 224, 229), #ffb1b1);
+    background-color: yellow;
     color: black;
+}
+
+.label {
+    width: 200px;
 }
